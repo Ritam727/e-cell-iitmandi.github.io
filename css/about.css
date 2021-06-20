@@ -7,9 +7,16 @@
 }
 
 #about-part-1 {
+<<<<<<< HEAD
   margin-right: 2rem;
   padding: 1rem 0.5rem;
   flex: 1;
+=======
+    padding-left: 50px;
+    margin-right: 100px;
+    margin-top: 20px;
+    flex: 1;
+>>>>>>> added left column
 }
 
 #about-part-2 {
